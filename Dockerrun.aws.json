@@ -17,7 +17,7 @@
     },
     {
       "name": "worker",
-      "image": "bhagyashrikulkarni/multi-server",
+      "image": "bhagyashrikulkarni/multi-worker",
       "essential": false,
       "memory": 128
     },
